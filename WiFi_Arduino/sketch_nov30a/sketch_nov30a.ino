@@ -191,7 +191,7 @@ void loop() {
      while(!digitalRead(Door_alarm)){
 
      }
-    }*/
+    }1*/
 }
 void GPIO() {
   digitalWrite(LED1_Pin, LED1);
